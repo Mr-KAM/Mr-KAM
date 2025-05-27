@@ -15,18 +15,6 @@ Ingénieur agronome passionné par l'informatique et autodidacte en développeme
 
 ## Projets populaires
 
-- **[FletifyHTML2](https://github.com/Mr-KAM/FletifyHTML2)**  
-  Outil Python polyvalent pour convertir du contenu HTML en code Flet, permettant d’intégrer facilement du HTML dans vos applications Flet.
-
-- **[quicktest](https://github.com/Mr-KAM/quicktest)**  
-  Test rapide de Hugo sur GitHub Pages pour valider des concepts et déployer des sites web statiques.
-
-- **[streamlit-aggrid](https://github.com/Mr-KAM/streamlit-aggrid)**  
-  Implémentation d’un composant Ag-Grid pour Streamlit, facilitant la visualisation de données dans des tableaux interactifs.
-
-- **[splashgen](https://github.com/Mr-KAM/splashgen)**  
-  Générateur de pages d’atterrissage en HTML en moins de 20 lignes de Python.
-
 - **[myminixform](https://github.com/Mr-KAM/myminixform)**  
   Package Python pour créer des formulaires XLSFORM à partir de fichiers YAML, simplifiant la conception de questionnaires.
 
