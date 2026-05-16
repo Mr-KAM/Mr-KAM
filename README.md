@@ -28,7 +28,7 @@ Ingénieur agronome passionné par l'informatique et autodidacte en développeme
 
 ## Me contacter
 
-- **Site web** : [mrkam-cogitatum](https://sites.google.com/view/mrkam-cogitatum/accueil)
+- **Site web** : [mrkam-cogitatum](https://mr-kam.github.io/)
 - **LinkedIn** : [Anicet Cyrille Kambou](https://www.linkedin.com/in/kambou-anicet-cyrille-ing-agro-dev-data)
 - **Email** : [anicet.kambou@inphb.ci](mailto:anicet.kambou@inphb.ci)
 
